@@ -1,0 +1,10 @@
+{
+    "include": [
+        {
+            "keyboard": "humble61mx",
+            "keymap": "vial",
+            "target": "uf2",
+            "name": "humble61mx_vial"
+        }
+    ]
+}
